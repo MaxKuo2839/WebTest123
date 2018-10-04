@@ -10,6 +10,7 @@ namespace WebTest123.Controllers
     {
         public ActionResult Index()
         {
+            int rasd = 5;
             return View();
         }
 
